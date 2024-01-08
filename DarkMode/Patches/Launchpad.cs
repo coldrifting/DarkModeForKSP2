@@ -13,6 +13,8 @@ public static class Launchpad
     {
         { "BG-panel", Colors.BackgroundColor },
         { "BG-panel/Border", Colors.BorderColor },
+        { "BG-panel/Depth", Color.black },
+        { "BG-panel/Depth (1)", Color.black },
         { "GRP-Body/BG-inset", Colors.BackgroundColorInset },
         { "GRP-Header-Facility/Sorting/HideStock/BG-Fill", Colors.BackgroundColorInset },
         { "GRP-Header-Facility/Sorting/VehicleFilter/BG-Fill", Colors.BackgroundColorInset },
