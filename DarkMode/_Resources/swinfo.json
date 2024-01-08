@@ -1,0 +1,23 @@
+{
+  "spec": "2.0",
+  "mod_id": "DarkMode",
+  "name": "DarkMode",
+  "author": "Coldrifting",
+  "description": "A Dark theme for the KSC windows and VAB Blueprint view",
+  "source": "https://github.com/coldrifting/DarkModeForKSP2",
+  "version": "0.2.0.0",
+  "ksp2_version": {
+    "min": "0.2.0",
+    "max": "*"
+  },
+  "dependencies": [
+    {
+      "id": "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.7.0",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": []
+}
